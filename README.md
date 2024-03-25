@@ -1,2 +1,9 @@
-# Pokemon-BST-raincloud-visualization
-Dataset and ggplot2 code to visualize distributions of Pokemon base stat totals (BST) by type and generation
+# Pokemon Base Stat Total (BST) distribution by type & generation
+
+Raincloud plots are a neat way of visualizing distributions by combining the features of a scatterplot, boxplot and (half) violin plot, each component contributing information that the others lack. 
+
+Using a combined dataset courtesy of [Ulrik Thyge Pedersen](https://www.kaggle.com/datasets/ulrikthygepedersen/pokemon-stats) & [Kumar Arnav](https://www.kaggle.com/datasets/arnavvvvv/pokemon-pokedex), I created raincloud plots to visualize the distribution of Pokemon base stat totals (BST) across generations and types.
+
+This repository is intended as a learning resource for those looking to create their own raincloud visualizations. I've included both the final dataset and the R code I used to generate these plots (minus some final aesthetic touch-ups I did in Canva).
+
+To learn more about ggrain, the R package used to create these plots, check out this [repository](https://github.com/njudd/ggrain) and this [vignette](https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html).
