@@ -6,4 +6,4 @@ Using a combined dataset courtesy of [Ulrik Thyge Pedersen](https://www.kaggle.c
 
 This repository is intended as a learning resource for those looking to create their own raincloud visualizations. I've included the final dataset and the R code I used to generate these plots (minus some final aesthetic touch-ups I did in Canva), as well as high-quality .svg versions of the final product if you're just interested in saving/sharing the graphic. 
 
-To learn more about {ggrain}, the R package used to create these plots, check out this [repository](https://github.com/njudd/ggrain) and this [vignette](https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html).
+To learn more about {ggrain}, the R package used to create these plots, check out this [repo](https://github.com/njudd/ggrain) and this [vignette](https://cran.r-project.org/web/packages/ggrain/vignettes/ggrain.html). A fun little write-up of this project can be found [here[(https://medium.com/@atoziye/cloudy-with-a-chance-of-drizzle-visualizing-pokemon-stat-distributions-with-raincloud-plots-616cfc8c5a4e)
